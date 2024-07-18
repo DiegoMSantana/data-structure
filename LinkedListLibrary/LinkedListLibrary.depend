@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721311975 source:f:\cpp\linked_list_library\linkedlistlibrary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
