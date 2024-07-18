@@ -1,6 +1,14 @@
 # depslib dependency file v1.0
-1721311975 source:f:\cpp\linked_list_library\linkedlistlibrary\main.c
+1721326395 source:f:\cpp\linked_list_library\linkedlistlibrary\main.c
 	<stdio.h>
 	<stdlib.h>
+	"llist.h"
+
+1721320710 f:\cpp\linked_list_library\linkedlistlibrary\llist.h
 	<stdbool.h>
+
+1721326437 source:f:\cpp\linked_list_library\linkedlistlibrary\llist.c
+	<stdio.h>
+	<stdlib.h>
+	"llist.h"
 
